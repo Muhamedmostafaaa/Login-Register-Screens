@@ -1,0 +1,15 @@
+{
+     "login": "Login",
+        "register": "Register",
+        "email": "Email",
+        "password": "Password",
+        "phone": "Phone",
+        "fullname": "Full Name",
+        "confirmpassword": "Confirm Password",
+        "name": "Name",
+        "logout": "Logout",
+        "userdata": "User Data"
+
+
+
+}
